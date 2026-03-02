@@ -10,7 +10,7 @@ encapsulamiento.
 
 Esta practica basicamente es realizar una clase llamada Usuario.php
 la cual constara de todo su estructura base y sencilla, despues 
-agregar una instancia de la clase usuario para monstrar los datos 
+agregar una instancia de la clase Usuario para monstrar los datos 
 en una pagina web a continuacion los pasos que se siguieron para su 
 elaboracion.
 
